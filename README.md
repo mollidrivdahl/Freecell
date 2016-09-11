@@ -12,8 +12,14 @@ To run this program, one must open this project in Visual Studio and "Start With
 
 <b>Screenshots:</b><br />
 
-<!--
-<img src= "/img/welcomeScreen.PNG" width="600" height="200">
+<img src= "/img/newGameStart.PNG" width="600" height="200">
 <br />
-Welcome screen
--->
+Start of a new game
+
+<img src= "/img/playAreaToPlayArea.PNG" width="600" height="200">
+<br />
+Moving cards from the play area to another column in the play area
+
+<img src= "/img/errorMessage.PNG" width="600" height="200">
+<br />
+Error message upon attempting to make an invalid-move in the game
